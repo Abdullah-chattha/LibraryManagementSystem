@@ -2,3 +2,4 @@
 examples/* linguist-vendored
 * linguist-vendored
 *.js linguist-vendored=false
+*.css linguist-vendored=false
